@@ -30,6 +30,7 @@
     "test:error-classification": "tsx src/errorClassification.test.ts",
     "test:paper-lock": "tsx src/paperLock.test.ts",
     "test:competency-prerequisites": "tsx src/competencyPrerequisites.test.ts",
+    "test:balvatika-stage": "tsx --test src/config/curriculumMap.test.ts",
     "test:choice-error-tags": "tsx --test tests/choice-error-tags.test.ts"
   },
   "dependencies": {
